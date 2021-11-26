@@ -13,7 +13,8 @@
 body {
   font-family: "Roboto", sans-serif;
   font-size: 14px;
-  background-color: #ffffff;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
   color: var(--primary-text-color);
   background-color: var(--primary-bgd-color);
 }
@@ -116,7 +117,11 @@ body {
   color: var(--title-text-color);
 }
 
-/* Out Team section */
+/* Ou Team section */
+
+.team {
+  background-color: #f5f4fa;
+}
 
 .team-names {
   font-weight: 500;
