@@ -89,6 +89,7 @@ body {
 }
 
 .hero-button {
+  font-family: inherit;
   font-size: 16px;
   line-height: 2;
   display: flex;
